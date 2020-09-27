@@ -1,2 +1,2 @@
-# general
+# projects
 ideas, resources, notes
