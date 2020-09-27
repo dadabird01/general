@@ -1,0 +1,2 @@
+# general
+ideas, resources, notes
